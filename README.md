@@ -21,4 +21,4 @@ HTTP headers play a crucial role in communication between a client (like your we
 
 In summary, HTTP headers provide a structured way for clients and servers to exchange information, enabling efficient and secure communication on the web.
 
-So in this project I made an Excel file using servlets in Jakarta EE 9, when the link is clicked automatically an Excel file is downloaded. Likewise, I made a page wich reloads every one second.  
+So in this project I made a page wich download an Excel file, this using servlets in Jakarta EE 9, when the link is clicked automatically an Excel file is downloaded. Likewise, I made a page wich reloads every second.  
